@@ -1,6 +1,6 @@
 <div class="fluid-row" id="header">
     <img src='../Assets/mapbiomas-icon.png' height='150' width='auto' align='right'>
-    <h1 class="title toc-ignore">MapBiomas Princeton Course</h1>
+    <h1 class="title toc-ignore">MapBiomas Training - ENG Course</h1>
     <h4 class="author"><em>Tasso Azevedo, Cesar Diniz, Luiz Cortinhas and João Siqueira</em></h4>
 </div>
 
@@ -377,5 +377,5 @@ Export.table.toDrive({
 
 ## 3.3 Calculate area for many regions
 
-[Previous: Day 3 - Classification using Random Forest](https://github.com/mapbiomas-brazil/mapbiomas-training/tree/main/Princeton_University/Day_3/README.md) | 
-[Next: Day 5 - Identifying Land Use and Land Cover Changes + Applications](https://github.com/mapbiomas-brazil/mapbiomas-training/tree/main/Princeton_University/Day_5/README.md)
+[Previous: Day 3 - Classification using Random Forest](https://github.com/cesargdiniz/mapbiomas-training/blob/main/mapbiomas-training-ENG/Day_3/README.md) | 
+[Next: Day 5 - Identifying Land Use and Land Cover Changes + Applications](https://github.com/cesargdiniz/mapbiomas-training/blob/main/mapbiomas-training-ENG/Day_5/README.md)
