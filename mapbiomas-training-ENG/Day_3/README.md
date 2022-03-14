@@ -1,6 +1,6 @@
 <div class="fluid-row" id="header">
     <img src='../Assets/mapbiomas-icon.png' height='150' width='auto' align='right'>
-    <h1 class="title toc-ignore">MapBiomas Princeton Course</h1>
+    <h1 class="title toc-ignore">MapBiomas Traning - ENG</h1>
     <h4 class="author"><em>Tasso Azevedo, Cesar Diniz, Luiz Cortinhas and João Siqueira</em></h4>
 </div>
 
@@ -252,4 +252,4 @@ Export.image.toAsset({
 
 [Link](https://code.earthengine.google.com/f8d9de8e8b0af476c7eb6402746d8e63)
 
-[Previous: Day 2 - Accessing Satellite Images and Creating Mosaics](https://github.com/mapbiomas-brazil/mapbiomas-training/tree/main/Princeton_University/Day_2/README.md) | [Next: Day 4 - Spatial filter, Temporal Filter and Area Calculation](https://github.com/mapbiomas-brazil/mapbiomas-training/tree/main/Princeton_University/Day_4/README.md)
+[Previous: Day 2 - Accessing Satellite Images and Creating Mosaics](https://github.com/cesargdiniz/mapbiomas-training/blob/main/mapbiomas-training-ENG/Day_2/README.md) | [Next: Day 4 - Spatial filter, Temporal Filter and Area Calculation](https://github.com/cesargdiniz/mapbiomas-training/blob/main/mapbiomas-training-ENG/Day_3/README.md)
